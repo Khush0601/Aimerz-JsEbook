@@ -3,7 +3,9 @@
 
 
 function calculateTotalPrice(price, taxRate) {
-  
+ let totalTax=price*taxRate;
+ let totalPrice= totalTax+price
+ return totalPrice
 }
 
 // Example usage:
