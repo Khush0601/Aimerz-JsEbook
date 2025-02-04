@@ -1,4 +1,5 @@
-// Write a program in javaScript where take a phone number as a input in variable phoneInput. Write a logic to validate weather the phone number is valid or not.
+// Write a program in javaScript where take a phone number as a input in variable phoneInput.
+//  Write a logic to validate weather the phone number is valid or not.
 
 
 

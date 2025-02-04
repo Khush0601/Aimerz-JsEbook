@@ -1,4 +1,5 @@
-// Write a program in javascript.where User input age as a string in variable ageInput. Write a program to check whether the input age is valid or not.
+// Write a program in javascript.where User input age as a string in variable ageInput.
+//  Write a program to check whether the input age is valid or not.
 
 
 
