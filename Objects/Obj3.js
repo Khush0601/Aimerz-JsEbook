@@ -18,6 +18,7 @@ function createContact(name, phone, email, address) {
     };
 }
 
+
 // Function to create a Contact List object
 function createContactList() {
     const contactList = [];
