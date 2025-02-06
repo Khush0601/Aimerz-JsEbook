@@ -15,7 +15,10 @@ function generatePassword(length, useSpecialChars) {
     let password = "";
     for (let i = 0; i < length; i++) {
       const randomIndex = Math.floor(Math.random() * pool.length);
+      console.log(pool[randomIndex]);
+      
       password += pool[randomIndex];
+      
     }
   
     return password;
